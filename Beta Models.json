@@ -1,0 +1,24 @@
+{
+  "Name": "Beta Models",
+  "Scripts": [
+    {
+      "Name": "Install BETA (Unused) Models",
+      "Script": "// Boo Key\r\n2AC522: 01 88\r\n\r\n// Koopa\r\n1D7ED6: C2 40\r\n1D7F2E: B6 E0\r\n1D7F62: B6 E0\r\n\r\n// Big Bully\r\n134C7A: 38 78\r\n\r\n// Penguin\r\n1658B2: 73 58\r\n\r\n// Goomba\r\n201021: 01 D0 D0\r\n\r\n// WF Tower Platforms\r\n49E57A: ED C0\r\n",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "FD691CE70297B1919DDCCDED40D69394",
+      "AllowRevert": true
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.14.16.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Installs the unused models, replacind the modern ones.\r\nInstalls unused parts/models for:\r\nBoo Key\r\nKoopa\r\nBig Bully\r\nPenguin\r\nGoomba\r\nWF Tower Platforms.\r\nCredits to TCRF for info.\r\nTweak by SuperDumbMario2.",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "D5BC2E481F17A69295E311C9CCDFA562",
+  "Official": false,
+  "Recommended": false
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Remove Chain Chomp's Log",
+  "Scripts": [
+    {
+      "Name": "Remove Log",
+      "Script": "0021E58C: 00 04 00 00 11 01 20 C9 1E 00 00 00 27 26 00 00 06 02 51 78 28 00 00 00 30 00 00 00 00 00 FE 70 FF CE 00 00 03 E8 00 C8 00 00 00 00 22 00 00 00 2D 00 00 00 0E 15 00 F0 32 00 00 C8 08 00 00 00 0C 00 00 00 80 30 0E 40 09 00 00 00 00 00 00 00 00 00 00 00 00",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "7D04699273AF0F85758873F46DE6EC4D",
+      "AllowRevert": true
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.14.16.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Removes Chain Chomp's log, making him look like in beta.\r\nTweak by SuperDumbMario2.\r\n",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "6520675EFCADAC515F033A7458556DD1",
+  "Official": false,
+  "Recommended": false
+}
