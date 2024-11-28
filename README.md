@@ -5,4 +5,6 @@ Please credit me for using those.
 # Contents:
 Beta Models.json - Installs hex-codes from TCRF, to install unused models to sm64 rom
 
-Remove Chain Chomp's Log.json - entriely by me. Removes the log, that Chain Chomp is attached to, results into him looking like in the beta.
+Remove Chain Chomp's Log.json - entriely by me. Removes the log, that Chain Chomp is attached to, results into it looking like in the beta.
+
+Black Fadeout on Title Screen and File Select Screen..json - entriely by me too. Makes the fade-out in title screen, file select, and star select black, like in beta.
