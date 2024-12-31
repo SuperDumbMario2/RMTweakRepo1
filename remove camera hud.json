@@ -1,0 +1,24 @@
+{
+  "Name": "remove camera hud",
+  "Scripts": [
+    {
+      "Name": "YAHAAAAAAAAAAAAAAAAAAAAAAAA",
+      "Script": "// Hide Camera Icons\r\n9EE18: 24 00",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "9DEF5A7312D13CF3061021B85C42DFE4",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.14.16.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "for beta hacks mainly, made by SuperDumbMario2",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "793032209ACB7C1C1595454B3FC33C9F",
+  "Official": false,
+  "Recommended": false
+}
